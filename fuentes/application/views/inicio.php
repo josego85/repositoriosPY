@@ -59,6 +59,6 @@
     
     <div class="container" id="personas"></div>
     <!-- Pie de pagina -->
-    <?php //$this->load->view('comunes/pie_pagina')?>
+    <?php $this->load->view('comunes/pie_pagina')?>
 </body>
 </html>
