@@ -88,6 +88,3 @@ define('EXIT__AUTO_MAX', 125); // highest automatically-assigned error code
 
 // Constantes confidenciales.
 define('GOOGLE_ANALYTICS_US', '');
-
-// Constantes generales.
-define('NOMBRE_DOMINIO', '');
